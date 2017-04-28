@@ -33,7 +33,7 @@ So far so good, but there are words, that, you know, were borrowed from other la
 like “parallel,” or “installación.” In these words that _doble ele_ is to be pronounced as is,
 as double “l.” Here we have a middle dot to denote this “paral·lel.”
 
-![paral·lel ⇒ parallllllel](/assets/img/parallel.jpg)
+![paral·lel ⇒ parallllllel](assets/img/parallel.jpg)
 
 Voilà—no doubt, it’s to be pronounced “ˈpa-rə-, -ləl”. That is **the hack**.
 
