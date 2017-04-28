@@ -24,7 +24,7 @@ github_username:  kantox
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-materialize
+# theme: jekyll-theme-materialize
 gems:
   - jekyll-feed
 exclude:
