@@ -8,7 +8,8 @@ tags:
   - tools
 image: assets/img/256-color-terminal.png
 ---
-<img src="/img/256-color-terminal.png" alt="Screenshot of escape-sentense builder">
+
+![Screenshot of escape-sentense builder](assets/img/256-color-terminal.png)
 
 
 I’m currently reinventing a wheel, driving a long debug output to `stdout`. I finally came to conclusion that the only way not to get my eyes broken leads to colorizing all the output. Modern terminals like `xterm` are able to show 256 colors, they do even like it. But those mastodons who are still giving their `VT100` a dust, have curly escape-sequences chosen to show a rainbow up. I revere a backward compatibility; I even have a latent tendency to cryptographic empiricism… You know, it took me a couple of hours to sort the stuff out. Internet gave not a rich detailed explanation, as well.
@@ -34,7 +35,7 @@ The text color signature is `38, 05; COLOR;`. The same for background color is `
 
 Something like that (thanks FedoraProject for the picture):
 
-<img src="/img/256-color-encoding.png" alt="Encoding of 156 used for terminals">
+![Encoding of 156 used for terminals](assets/img/256-color-encoding.png)
 
 It is easy to see that the sequence `\e[01;04;38;05;196;48;05;232m` turns the mode of a bold underlined red text on a black background. Haha.
 
