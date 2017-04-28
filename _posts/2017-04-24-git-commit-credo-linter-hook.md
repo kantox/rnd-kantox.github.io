@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Use `credo` Linter in Git `pre-commit` Hook"
+title: "Use Credo Linter in Git Commit Hook"
 description: "copy-paste solution to start using credo linter in git pre-commit hook"
 category: hacking
+image: assets/img/prepared/400/IMG_20170316_070902.jpg
 tags:
   - tricks
   - elixir
