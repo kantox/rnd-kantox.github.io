@@ -1,0 +1,5 @@
+- name: Kantox
+  image: https://www.kantox.com/wp-content/uploads/2016/06/KantoxRetina.png
+  url: https://kantox.com
+  describe: Kantox
+
