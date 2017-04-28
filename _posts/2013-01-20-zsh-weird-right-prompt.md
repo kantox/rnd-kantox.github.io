@@ -12,7 +12,7 @@ Tinkering at `zsh` settings, I accidentally came across a very interesting [solu
 
 The inventor of the solution used the far-fetched python to retrieve the battery charge level. I decided to rewrite the whole stuff using native shell. The result looks like this:
 
-![Shell terminal window with battery charge indicator in the prompt](assets/img/shell-color-prompt-battery.png)
+![Shell terminal window with battery charge indicator in the prompt](/assets/img/shell-color-prompt-battery.png)
 
 The code below has been tested on Ubuntu, though it should work fine on any linux distribution and even MacOSX under zsh. Well, code talks while bullshit walks. Let’s proceed.
 
